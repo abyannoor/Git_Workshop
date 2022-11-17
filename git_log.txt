@@ -1,0 +1,26 @@
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git log
+commit dbe42abbb715d2c33717a89fa3a7a70111cde961 (HEAD -> master)
+Author: abyannoor <ariqabyan@gmail.com>
+Date:   Thu Nov 17 13:35:15 2022 +0700
+
+    .
+
+commit a67cff33900bed38cd503c286127c622940660f7
+Author: abyannoor <ariqabyan@gmail.com>
+Date:   Thu Nov 17 13:33:49 2022 +0700
+
+    .
+
+commit 5adc566163f14bcf81b5fc91f0254d3d75f4634c
+Author: abyannoor <ariqabyan@gmail.com>
+Date:   Thu Nov 17 13:29:10 2022 +0700
+
+    notes_git.pdf
+
+commit 52c7a516a9d0f97d2c5599348efbbe3eb69b5845
+Author: abyannoor <ariqabyan@gmail.com>
+Date:   Thu Nov 17 13:22:03 2022 +0700
+
+    file_1.txt
+
