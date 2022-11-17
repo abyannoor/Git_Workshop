@@ -1,0 +1,1 @@
+Tugas Tambah file_2.txt, lalu commit ke repository
