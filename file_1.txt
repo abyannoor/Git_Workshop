@@ -9,4 +9,8 @@ Tambahkan feature a
 
 Tambahkan feature b
 
+<<<<<<< HEAD
 Tambahkan feature C
+=======
+Tambahkan feature D
+>>>>>>> feature/d
