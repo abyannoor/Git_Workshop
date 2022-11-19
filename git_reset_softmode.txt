@@ -1,0 +1,9 @@
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git reset --soft 3e1ef67
+
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   log_oneline_graph.txt

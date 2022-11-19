@@ -1,0 +1,17 @@
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git log --oneline --graph
+* 3e1ef67 (HEAD -> master) log_oneline.txt
+* 460106d Menghapus_File.txt
+* 20ae3d7 Membatalkan_Perubahan.txt
+* 769cd29 mengubah_file.txt
+* 67bc5c9 .
+* 4e2c4d4 adding_file.txt
+* aa27619 git_log.txt
+* dbe42ab .
+* a67cff3 .
+* 5adc566 notes_git.pdf
+* 52c7a51 file_1.txt
+* c7370f5 file_2.txt
+* 983f68b file_3.txt
+* b381edb file_2.txt
+* 2429e19 file_1.txt
