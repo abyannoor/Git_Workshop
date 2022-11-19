@@ -1,0 +1,31 @@
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git log --oneline
+0d9d9fe (HEAD -> master) adding_.gitignore
+6a66fdb git_revert_commit
+f03d74f Revert "Tugas_done"
+152e656 git_checkout_versi_sebelumnya
+8a1b6fa Tugas_done
+fd31f71 Tugas_commit_amend.txt
+43e4c07 git_reset_hard
+b6cef5c Reset_Commit.txt
+3e1ef67 log_oneline.txt
+460106d Menghapus_File.txt
+20ae3d7 Membatalkan_Perubahan.txt
+769cd29 mengubah_file.txt
+67bc5c9 .
+4e2c4d4 adding_file.txt
+aa27619 git_log.txt
+dbe42ab .
+a67cff3 .
+5adc566 notes_git.pdf
+52c7a51 file_1.txt
+c7370f5 file_2.txt
+983f68b file_3.txt
+b381edb file_2.txt
+2429e19 file_1.txt
+
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git blame file_1.txt
+52c7a516 (abyannoor 2022-11-17 13:22:03 +0700 1) adding file_1.txt
+52c7a516 (abyannoor 2022-11-17 13:22:03 +0700 2) Update file versi-2
+52c7a516 (abyannoor 2022-11-17 13:22:03 +0700 3) 20221117
