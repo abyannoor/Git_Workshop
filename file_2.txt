@@ -1,3 +1,5 @@
 Tugas Tambah file_2.txt, lalu commit ke repository
 Update file versi-2
 20221117
+
+Update perubahan text1 > commit di branch feature/2
