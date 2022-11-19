@@ -9,3 +9,22 @@ $ git config --global alias.co commit
 
 ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
 $ git config --global alias.logone "log --oneline"
+
+
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+# menggunakan alias
+$ git logone
+2b31844 (HEAD -> master) git_blame
+0d9d9fe adding_.gitignore
+6a66fdb git_revert_commit
+...
+
+
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+# menggunakan alias
+$ git co -m "Adding_alias"
+[master df62500] Adding_alias
+ 1 file changed, 11 insertions(+)
+ create mode 100644 git_alias.txt
+
+
