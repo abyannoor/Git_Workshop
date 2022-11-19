@@ -1,0 +1,5 @@
+1. Tambah file.txt
+2. commit file.txt ke repository
+3. ubah file3.txt
+commit dengan amend ke repositorty:
+git commit --amend
