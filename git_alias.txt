@@ -1,0 +1,11 @@
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git commit -m "git_blame"
+[master 2b31844] git_blame
+ 1 file changed, 31 insertions(+)
+ create mode 100644 git_blame.txt
+
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git config --global alias.co commit
+
+ariqa@Abyannoor MINGW64 /d/Git_Workshop (master)
+$ git config --global alias.logone "log --oneline"
