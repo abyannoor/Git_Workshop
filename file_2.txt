@@ -7,3 +7,5 @@ Update perubahan text1 > commit di branch feature/2
 Tambahkan Feature 2
 
 Tambahkan Feature C
+
+Tambahkan feature e
