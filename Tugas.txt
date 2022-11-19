@@ -3,3 +3,5 @@
 3. ubah file3.txt
 commit dengan amend ke repositorty:
 git commit --amend
+
+perubahan pada file Tugas.txt
