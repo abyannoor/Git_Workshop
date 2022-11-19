@@ -23,4 +23,6 @@ master
 
 master
 
+Feature Merge Squash
+
 
